@@ -2,6 +2,8 @@
 
 A medium-fidelity mobile prototype for reviewing and discovering study places on campus.
 
+live link: https://study-spots.vercel.app/ 
+
 ## Features
 
 ### Core Features
